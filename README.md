@@ -1,7 +1,6 @@
-# Project Title
+# CNN implementation for MNIST using pytorch
 
-A brief description of what this project does and who it's for.
-
+This project is a simple implementation of a Convolutional Neural Network (CNN) using Pytorch to solve the MNIST dataset.
 ## Installation 
 
 Install project dependencies:
@@ -22,7 +21,6 @@ To solve this problem we've used the following architecture:
 - Pytorch
 - Convolutional Neural Network (CNN)
 - Adam optimizer
-- 
 
 # Results
 With 10 epochs, we've achieved 98% precision on the test dataset.
